@@ -6,7 +6,7 @@ categories:
   - javascript
   - html
 ---
-Hoy: Abrir el cliente de correo desde el navegador sin abrir una pestaña nueva.
+ &iquest;Abrir el cliente de correo desde el navegador sin abrir una pesta&ntilde;a nueva? F&aacute;cil.
 
 {% highlight js %}
 function open_email(){

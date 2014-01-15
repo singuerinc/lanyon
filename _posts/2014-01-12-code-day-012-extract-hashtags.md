@@ -1,11 +1,11 @@
 ---
-title: Day 011 - Extract hashtags
+title: Day 012 - Extract hashtags
 author: singuerinc
 layout: post
 categories:
   - javascript
 ---
-Hoy: Extraer múltiples hashtags de una cadena de texto.
+Hoy: Extraer m&uacute;ltiples hashtags de una cadena de texto.
 
 {% highlight js %}
 function extract(value){
