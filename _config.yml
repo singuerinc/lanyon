@@ -14,6 +14,7 @@ url:              http://blog.singuerinc.com
 author:
   name:           'Nahuel Scotti'
   url:            https://twitter.com/singuerinc
+  github:         https://github.com/singuerinc
 
 paginate:         5
 

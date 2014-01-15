@@ -4,27 +4,16 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hey there! This is my personal blog.<br/>Feel free to copy anything you need. Carry on!
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## A bit about myself
 
-There are currently two themes built on Poole:
+I’m a dev living and working in Barcelona, I'm working at <a href="http://www.b-reel.com" target="_blank">B-REEL</a>. I worked at <a href="http://www.doubleyou.com" target="_blank">DoubleYou</a> for several years, first as a Flash developer, then as a Frontend dev. Currently I make apps in javascript, ruby on rails, node.js, among others.<br/>I speak Spanish and sometimes Italian.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Stay in touch
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Have questions or suggestions?<br/>Feel free to [take a look at my GitHub repos](https://github.com/singuerinc) or [ask me on Twitter](https://twitter.com/singuerinc).
 
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+> **Disclaimer**
+> This blog contains thoughts, ideas, and opinions that are my own and they don't necessarily reflect those of my employer.
